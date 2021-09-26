@@ -13,8 +13,8 @@ To make the right/bottom pixels are included in the result, add additional scan 
 Result
 
 
-![raw](/out/rgb_0000.jpg) ![raw](/out/rgb_0004.jpg) ![raw](/out/rgb_0008.jpg)
-![raw](/out/rgb_0001.jpg) ![raw](/out/rgb_0005.jpg) ![raw](/out/rgb_0009.jpg)
-![raw](/out/rgb_0002.jpg) ![raw](/out/rgb_0006.jpg) ![raw](/out/rgb_0010.jpg)
-![raw](/out/rgb_0003.jpg) ![raw](/out/rgb_0007.jpg) ![raw](/out/rgb_0011.jpg)
+![raw](/out/rgb_00000.jpg) ![raw](/out/rgb_00004.jpg) ![raw](/out/rgb_00008.jpg)
+![raw](/out/rgb_00001.jpg) ![raw](/out/rgb_00005.jpg) ![raw](/out/rgb_00009.jpg)
+![raw](/out/rgb_00002.jpg) ![raw](/out/rgb_00006.jpg) ![raw](/out/rgb_00010.jpg)
+![raw](/out/rgb_00003.jpg) ![raw](/out/rgb_00007.jpg) ![raw](/out/rgb_00011.jpg)
 
