@@ -20,3 +20,26 @@ Result
 
 ![raw](/out/rgb_00003.jpg) ![raw](/out/rgb_00007.jpg) ![raw](/out/rgb_00011.jpg)
 
+## Install Package
+```
+python -m venv ut
+source ut/bin/activate
+pip install -r requirements.txt
+```
+
+## Run Example
+
+```
+python cut_img.py
+```
+
+## Change for Customer Images
+
+```
+    in_folder = 'in'        //Put input images
+    in_file_type = "jpg"    //Input image extension type
+    out_folder = "out"      //Output folder
+    out_prefx = 'rgb_'      //Output image's prefix
+    out_h = 50              //Output image height
+    out_w = 150             //Output image width
+```
