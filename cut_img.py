@@ -47,8 +47,8 @@ def main():
     in_folder = 'in'
     out_folder = "out"
     out_prefx = 'rgb_'
-    out_h = 100
-    out_w = 300
+    out_h = 50
+    out_w = 150
 
     idx = 0
     for in_file in glob.glob('{}/*.jpg'.format(in_folder)):
